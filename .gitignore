@@ -3,3 +3,8 @@
 /.idea/jarRepositories.xml
 /.idea/misc.xml
 /.idea/vcs.xml
+/target/classes/Customer.class
+/target/classes/CustomerConsumer.class
+/target/classes/CustomerDeserializer.class
+/target/classes/CustomerProducer.class
+/target/classes/CustomerSerializer.class
